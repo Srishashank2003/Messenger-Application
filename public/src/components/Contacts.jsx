@@ -23,7 +23,7 @@ export default function Contacts({ contacts, changeChat }) {
         <Container>
           <div className="brand">
             <img src={Logo} alt="logo" />
-            <h3>sneakysync</h3>
+            <h3>SparkAge</h3>
           </div>
           <div className="contacts">
             {contacts.map((contact, index) => {
@@ -79,7 +79,6 @@ const Container = styled.div`
     }
     h3 {
       color: white;
-      text-transform: uppercase;
     }
   }
   .contacts {

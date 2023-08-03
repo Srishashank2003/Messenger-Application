@@ -1,6 +1,6 @@
-# SneakySync - Chat Application
+# SparkAge - Chat Application
 
-SneakySync is Chat application build with the power of MERN Stack.
+SparkAge is Chat application build with the power of MERN Stack.
 
 ## Installation Guide
 

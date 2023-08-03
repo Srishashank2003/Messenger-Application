@@ -109,7 +109,7 @@ const Container = styled.div`
   align-items: center;
   flex-direction: column;
   gap: 3rem;
-  background-color: #461959;
+  background-color: #1A202C;
   height: 100vh;
   width: 100vw;
 
@@ -157,6 +157,9 @@ const Container = styled.div`
     transition: 0.5s ease-in-out;
     &:hover {
       background-color: #7a9d34;
+    }
+    &:active{
+    background-color: #749BC2;
     }
   }
 `;

@@ -17,9 +17,13 @@ export default function Logout() {
     }
   };
   return (
-    <Button onClick={handleClick}>
-      <BiPowerOff />
-    </Button>
+    <div className="btn">
+      
+      <Button onClick={handleClick}>
+        <h3 style={{padding:"0.3rem"}}>LogOut</h3>
+        <BiPowerOff />
+      </Button>
+    </div>
   );
 }
 
@@ -43,5 +47,4 @@ const Button = styled.button`
   &:active{
     background-color: #749BC2;
   }
-
 `;
