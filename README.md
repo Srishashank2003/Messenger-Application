@@ -1,5 +1,7 @@
 # SparkAge - Chat Application
 
+### The project name is “SparkAge”, which originates from ‘Spark’ meaning ‘Instant’ and ‘Age’ is a suffix from the word ‘Message’.
+
 SparkAge is Chat application build with the power of MERN Stack.
 
 ## Installation Guide
